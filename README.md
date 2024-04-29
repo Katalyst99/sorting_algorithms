@@ -29,9 +29,9 @@ This project implements various sorting algorithms in C and explores the concept
 * A list/array does not need to be sorted if its size is less than 2.
 
 ## Usage
-To compile the sorting algorithms, run:
+* To compile the sorting algorithms, run:
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 0-bubble_sort.c 0-main.c print_array.c -o bubble
-To run the compiled program, use:
+* To run the compiled program, use:
 ./bubble
 
 ## Authors
